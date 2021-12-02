@@ -1,0 +1,9 @@
+print('hello a todos')
+point0 = [0,0,0]
+point1 = [1,0,0]
+point2 = [0,1,0]
+point3 = [0,0,1]
+point4 = [1,1,0]
+point5 = [0,1,1]
+point6 = [1,1,1]
+point7 = [1,0,1]
